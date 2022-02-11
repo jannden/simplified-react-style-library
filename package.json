@@ -6,5 +6,5 @@
   "repository": "https://github.com/jannden/cool-react",
   "author": "Jan Cibulka",
   "license": "ISC",
-  "main": "server.js"
+  "main": "index.html"
 }
