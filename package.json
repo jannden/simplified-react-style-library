@@ -1,0 +1,10 @@
+{
+  "name": "cool-react",
+  "version": "1.0.0",
+  "description": "A front-end JavaScript library similar to a simplified React (a custom made React style library).",
+  "homepage": "https://github.com/jannden/cool-react",
+  "repository": "https://github.com/jannden/cool-react",
+  "author": "Jan Cibulka",
+  "license": "ISC",
+  "main": "server.js"
+}
