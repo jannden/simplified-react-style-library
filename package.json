@@ -1,9 +1,9 @@
 {
-  "name": "cool-react",
+  "name": "simplified-react-style-library",
   "version": "1.0.0",
   "description": "A front-end JavaScript library similar to a simplified React (a custom made React style library).",
-  "homepage": "https://github.com/jannden/cool-react",
-  "repository": "https://github.com/jannden/cool-react",
+  "homepage": "https://codepen.io/jannden/pen/dyzNgMj",
+  "repository": "https://github.com/jannden/simplified-react-style-library",
   "author": "Jan Cibulka",
   "license": "ISC",
   "main": "index.html"
